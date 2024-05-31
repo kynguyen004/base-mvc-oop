@@ -1,0 +1,9 @@
+{
+    "name": "nguyenbaky/crud",
+    "autoload": {
+        "psr-4": {
+            "Nguyenbaky\\Crud\\": "src/"
+        }
+    },
+    "require": {}
+}
